@@ -4,7 +4,7 @@
   "description": "Shopping list built with the MERN stack",
   "main": "server.js",
   "scripts": {
-    "client-intall": "npm install --prefix client",
+    "client-intall": "npm install --prefix ../client",
     "start": "node server.js",
     "build": "echo success",
     "server": "nodemon server.js",
